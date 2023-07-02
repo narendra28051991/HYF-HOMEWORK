@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "todo": "get out of the bed",
+      "completed": false,
+      "id": 1
+    },
+    {
+      "todo": "brush teeth",
+      "completed": false,
+      "id": 2
+    },
+    {
+      "todo": "eat breakfast",
+      "completed": false,
+      "id": 3
+    }
+  ]
+}
